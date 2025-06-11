@@ -10,6 +10,7 @@ Atualmente, foco em aprimorar minhas habilidades em:
 - Python 🐍
 - SQL 📊
 - SystemVerilog ⚡
+- RNAs 👨‍💻
 
 Tenho grande interesse e conhecimento em:
 - Inteligência Artificial (IA) 🧠
