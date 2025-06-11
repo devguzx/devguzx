@@ -4,8 +4,6 @@
 - Tenho 18 anos e sou natural do Ceará. Atualmente cursando Ciência da Computação (1º semestre) no IFCE.💡
 - Sempre em busca de novos conhecimentos. 📚
 
-## Minhas stacks: 
-
 ## Atualmente, foco em aprimorar minhas habilidades em:
 - Python 🐍
 - SQL 📊
