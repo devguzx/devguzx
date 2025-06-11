@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello! Eu sou o Guthierry Sousa
 
-<!--
-**devguzx/devguzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu universo tech! 🚀
+- Tenho 18 anos e sou natural do Ceará. Atualmente cursando Ciência da Computação (1º semestre) no IFCE.💡
+- Sempre em busca de novos conhecimentos. 📚
 
-Here are some ideas to get you started:
+Minhas stacks: 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, foco em aprimorar minhas habilidades em:
+- Python 🐍
+- SQL 📊
+- SystemVerilog ⚡
+
+Tenho grande interesse e conhecimento em:
+- Inteligência Artificial (IA) 🧠
+- Machine Learning (ML) 🤖
+- Large Language Models (LLMs) 💬
+- Redes Neurais 🌐: Perceptron, Adaline, Multilayers.
+
+Conecte-se comigo! 🤝
+- Email: franciscoguthierry750@gmail.com 📧
+
+
