@@ -8,12 +8,14 @@
 - SQL 📊
 - SystemVerilog ⚡
 - RNAs 👨‍💻
+- Data Science 🎲
 
 ## Tenho grande interesse e conhecimento em:
 - Inteligência Artificial (IA) 
 - Machine Learning (ML) 
 - Large Language Models (LLMs) 
 - Redes Neurais : Perceptron, Adaline, Multilayers.
+
 
 ## Conecte-se comigo! 
 - Email: franciscoguthierry750@gmail.com 📧
