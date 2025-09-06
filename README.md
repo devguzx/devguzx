@@ -1,6 +1,6 @@
 # Hello! Eu sou o Guthierry Sousa 💻
 
-- Tenho 18 anos e sou natural do Ceará. Atualmente cursando Ciência da Computação (1º semestre) no IFCE.
+- Tenho 18 anos e sou natural do Ceará. Atualmente cursando Ciência da Computação (2º semestre) no IFCE.
 - Sempre em busca de novos conhecimentos. 
 
 ## Atualmente, foco em aprimorar minhas habilidades em:
